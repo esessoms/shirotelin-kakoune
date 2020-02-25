@@ -26,6 +26,6 @@ Copy `colors/shirotelin.kak` to `~/.config/kak/colors` and load with `:colorsche
 
 <img src="images/screenshot.png">
 
-## Licence
+## License
 
-MIT Licence
+MIT License
