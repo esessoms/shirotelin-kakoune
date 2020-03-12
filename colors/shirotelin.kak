@@ -3,7 +3,7 @@ face global comment rgb:005f00
 face global string rgb:0000af
 face global module @string
 face global value rgb:0000af+b
-face global function @value
+face global function rgb:00005f+b
 
 face global keyword rgb:87005f+b
 face global operator @keyword
