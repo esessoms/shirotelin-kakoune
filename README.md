@@ -9,6 +9,7 @@ This port is for use with the [Kakoune](https://kakoune.org) text editor.
 - [for JetBrains IDE](https://github.com/yasukotelin/shirotelin-intellij)
 - [for Visual Studio Code](https://github.com/yasukotelin/shirotelin-vscode)
 - [for Vim](https://github.com/yasukotelin/shirotelin)
+- [for Emacs](https://github.com/coder5506/shirotelin-theme)
 
 ## Supported Plugins Color⛏
 
