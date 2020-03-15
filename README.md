@@ -5,11 +5,11 @@ This port is for use with the [Kakoune](https://kakoune.org) text editor.
 
 ## shirotelin family!
 
-- [for Terminal.app](https://github.com/yasukotelin/shirotelin-terminal-app)
-- [for JetBrains IDE](https://github.com/yasukotelin/shirotelin-intellij)
-- [for Visual Studio Code](https://github.com/yasukotelin/shirotelin-vscode)
-- [for Vim](https://github.com/yasukotelin/shirotelin)
-- [for Emacs](https://github.com/coder5506/shirotelin-theme)
+- for Terminal.app ([yasukotelin/shirotelin-terminal-app](https://github.com/yasukotelin/shirotelin-terminal-app))
+- for JetBrains IDE ([yasukotelin/shirotelin-intellij](https://github.com/yasukotelin/shirotelin-intellij))
+- for Visual Studio Code ([yasukotelin/shirotelin-vscode](https://github.com/yasukotelin/shirotelin-vscode))
+- for Vim ([yasukotelin/shirotelin](https://github.com/yasukotelin/shiroteln))
+- for Emacs ([esessoms/shirotelin-theme](https://github.com/esessoms/shirotelin-theme))
 
 ## Supported Plugins Color⛏
 
